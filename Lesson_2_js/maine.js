@@ -168,7 +168,16 @@ let Users = [
     }
 ]
 
-console.log(Users)
+console.log(Users[0].password)
+console.log(Users[1].password)
+console.log(Users[2].password)
+console.log(Users[3].password)
+console.log(Users[4].password)
+console.log(Users[5].password)
+console.log(Users[6].password)
+console.log(Users[7].password)
+console.log(Users[8].password)
+console.log(Users[9].password)
 
 //
 // Логічні розгалуження:
